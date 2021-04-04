@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.texfile{
+  width: 60%;
+}
+.btn{
+  margin-top: 8px!important;
+  margin-left: 10px!important;
+}
